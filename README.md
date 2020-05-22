@@ -30,7 +30,9 @@ Après avoir cloné le projet, exécutez la commande ```make``` pour installer l
 
 Une fois installé, lancez l'assembleur avec la commande suivante:
 
-```./asm [fichier_à_compiler.s] && hexdump -C [fichier_à_compiler.cor] ```
+```
+./asm [fichier_à_compiler.s] && hexdump -C [fichier_à_compiler.cor] 
+```
 
 La fonction ```hexdump``` permet de convertir les fichiers en hexa afin qu'ils soit plus lisibles.
 
@@ -40,7 +42,9 @@ Pour voir les différents arguments possibles, veuillez vous référez au ```-he
 
 Pour lancer la machine virtuelle, rien de plus simple:
 
-```./corewar [champions_1.cor] [champion_2.cor] [champion_3.cor] [champion_4.cor]```
+```
+./corewar [champions_1.cor] [champion_2.cor] [champion_3.cor] [champion_4.cor]
+```
 
 Pour lancer le client graphique, il est nécessaire d'avoir installer la lib Ncurses.
 
