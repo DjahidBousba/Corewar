@@ -69,7 +69,7 @@ DESCRIPTION
 
 [![Corewar](https://www.djahid-bousba.com/static/media/corewar.ee0e946c.png)](https://www.youtube.com/watch?v=ty-CPU3o9Ow)
 
-## Auteur 
+## Auteurs
 
   * **Djahid Bousba** - [Djahid.Bousba](https://www.djahid-bousba.com/)
   * **Laurent Sferlazza**
